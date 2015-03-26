@@ -12,5 +12,6 @@
     <string name="confirmpw_label">Confirm:</string>
     <string name="password_input_hint">Enter Password</string>
     <string name="confirmpw_input_hint">Enter Again</string>
+    <string name="Random">random</string>
 
 </resources>
